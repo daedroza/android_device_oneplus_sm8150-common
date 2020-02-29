@@ -432,4 +432,7 @@
          and one pSIM) -->
     <integer name="config_num_physical_slots">2</integer>
 
+    <!-- The device supports freeform window management -->
+    <bool name="config_freeformWindowManagement">true</bool>
+
 </resources>
